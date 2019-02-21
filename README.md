@@ -1,2 +1,3 @@
 # MailQueueManager
-nothing but an idea, spike and psuedo code
+
+work in progress, nothing but an idea, spike and psuedo code
